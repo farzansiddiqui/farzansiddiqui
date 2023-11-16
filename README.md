@@ -12,7 +12,7 @@
 <a href="https://twitter.com/farzansiddiqui7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farzansiddiqui7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/farzansiddiqui12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farzansiddiqui12/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12722770/farzan-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12722770/farzan-siddiqui" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@farzanshaikh810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@farzanshaikh810" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/farzanshaikh810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@farzanshaikh810" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
