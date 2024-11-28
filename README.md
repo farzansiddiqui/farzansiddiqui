@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="farzansiddiqui" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8293294209902617913](https://play.google.com/store/apps/dev?id=8293294209902617913)
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=6792334810142820730](https://play.google.com/store/apps/dev?id=6792334810142820730)
 
 - 📫 How to reach me **farzanshaikh810@gmail.com**
 
